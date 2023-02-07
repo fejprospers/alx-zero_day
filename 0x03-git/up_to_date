@@ -1,0 +1,2 @@
+the git command lines used for this project include:
+ git clone, git add, git commit, git config --config user.email, git config --config user.name, git push, git branch <branch_name>, git push REMOTE-NAME BRANCH-NAME, git push --set-upstream origin, git checkout branch_name,git pull, git status.
